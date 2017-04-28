@@ -1,3 +1,5 @@
+Configure CentoOS 7 Samba4 as Domain Controller
+
 1- Edit /etc/hosts put IP,  FQDN name and NetBIOS name.
 
     /etc/hosts
